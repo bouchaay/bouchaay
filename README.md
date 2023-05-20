@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my knowledge at N7<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning digital science engineering<br>💬 Ask me about anything you want<br>⚡ Fun fact - Intelligent yet inclined to idleness.
+<h1 align="center">Hi 👋, I'm Ayoub</h1>
+<h4 align="center">A student in first year (L3) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
 
 ## 🌐 Socials:
