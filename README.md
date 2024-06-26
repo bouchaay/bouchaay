@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h4 align="center">A student in first year (M1) at INP-ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Software Engineering</h4>
+<h4 align="center">A softwrae engineering student in third year (M2) at INP-ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Software Engineering</h4>
 
 
 ## 🌐 Socials:
