@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h4 align="center">A software engineering student in third year (M2) at INP-ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Software Engineering</h4>
+<h4 align="center">A Software Engineering student in third year (M2) at INP-ENSEEIHT</h4>
+<h4 align="center">M2 Operational Research Student</h4>
+<h4 align="center">Java/Angular Developer Apprentice at Sopra Steria</h4>
 
 
 ## 🌐 Socials:
