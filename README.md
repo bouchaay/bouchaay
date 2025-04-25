@@ -1,8 +1,17 @@
-# 💻 Ayoub Bouchama | Software Engineering Student & Apprentice Developer
+<div align="center">
+
+# 💻 <span style="font-size:2.5rem;">Ayoub Bouchama</span>  
+### <span style="font-weight:normal;">Software Engineering Student & Apprentice Developer</span>
+
+---
 
 ## 💫 About Me
-I'm a passionate and motivated Software Engineering student currently in my third year (M2) at INP-ENSEEIHT.  
-As a Java/Angular Developer Apprentice at **Sopra Steria**, I enjoy building scalable web applications, learning new technologies, and contributing to impactful projects.
+
+I'm a passionate and motivated **Software Engineering student** currently in my third year (M2) at **INP-ENSEEIHT**.  
+As a **Java/Angular Developer Apprentice at Sopra Steria**, I enjoy building scalable web applications,  
+learning new technologies, and contributing to impactful projects.
+
+</div>
 
 ---
 
@@ -59,9 +68,6 @@ As a Java/Angular Developer Apprentice at **Sopra Steria**, I enjoy building sca
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bouchaay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bouchaay&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
