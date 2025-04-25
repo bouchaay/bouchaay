@@ -5,7 +5,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm a passionate and motivated **Software Engineering student** currently in my third year (M2) at **INP-ENSEEIHT**.  
 As a **Java/Angular Developer Apprentice at Sopra Steria**, I enjoy building scalable web applications,  
